@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "base_track": "くだらないの中に",
+  "base_artist": "星野 源",
+  "createdAt": "2026-03-22T05:03:23.104784Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "くだらないの中に",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/01_くだらないの中に_星野源.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "くだらないの中に",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/02_くだらないの中に_星野源.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "くだらないの中に",
+      "artist": "Gen Hoshino",
+      "has_synced": false,
+      "path": "select/03_くだらないの中に_Gen_Hoshino.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "くだらないの中に - Kudaranai no Nakani",
+      "artist": "Gen Hoshino",
+      "has_synced": true,
+      "path": "select/04_くだらないの中に_-_Kudaranai_no_Nakani_Gen_Hoshino.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "くだらないの中に",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_くだらないの中に_星野源.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "くだらないの中に",
+      "artist": "星野 源",
+      "has_synced": false,
+      "path": "select/localdb_01_くだらないの中に_星野_源.txt",
+      "repo_name": "DCwynUEaHuw"
+    }
+  ]
+}
